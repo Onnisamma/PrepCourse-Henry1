@@ -1,2 +1,1 @@
-# PrepCourse-Henry1
-Aprendiendo a programar
+Este es un proyecto de como crear un repositorio y clonarlo desde github a tu escritorio
